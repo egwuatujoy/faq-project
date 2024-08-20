@@ -36,7 +36,7 @@ body {
   width: 100%;
   max-width: var(--desktop-width);
   padding: 20px 30px;
-  margin: 120px 150px 0 150px;
+  margin: 120px 150px 30px 150px;
 }
 
 .header {
@@ -74,6 +74,6 @@ section:nth-child(-n + 3) {
     background-attachment: fixed;
   }
   .container {
-    margin: 160px 30px 0 30px;
+    margin: 160px 30px 30px 30px;
   }
 }
