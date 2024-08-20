@@ -74,6 +74,6 @@ section:nth-child(-n + 3) {
     background-attachment: fixed;
   }
   .container {
-    margin: 160px 80px 0 80px;
+    margin: 160px 30px 0 30px;
   }
 }
